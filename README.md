@@ -75,17 +75,6 @@ student_managment/
 
 ---
 
-## 🔐 Default Admin Access
-
-| Field | Value |
-|------|--------|
-Email | admin@example.com |
-Password | admin123 |
-
-*(Change after first login for security)*
-
----
-
 ## 📊 Dashboard
 
 - Displays total, active, and inactive students
@@ -145,4 +134,5 @@ Password | admin123 |
 
 **Elvi Rose Joshi**  
 GitHub: https://github.com/Elvirose
+
 
