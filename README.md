@@ -100,24 +100,6 @@ student_managment/
 
 ---
 
-## 📸 Screenshots
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Students List
-![Students List](screenshots/students_list.png)
-
-### Students Add
-![Students List](screenshots/student_add.png)
-
-### Students Edit
-![Students List](screenshots/student_edit.png)
-
----
 
 ## 🧩 Future Enhancements
 
@@ -134,5 +116,6 @@ student_managment/
 
 **Elvi Rose Joshi**  
 GitHub: https://github.com/Elvirose
+
 
 
